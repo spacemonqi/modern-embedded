@@ -1,0 +1,44 @@
+[
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "1",
+      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\Embedded_Programming\\lesson3\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\Embedded_Programming\\lesson3\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@38@F@main@p_int",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "p_int",
+    "location": {
+      "column": "10",
+      "line": "4",
+      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\Embedded_Programming\\lesson3\\main.c"
+    },
+    "name": "p_int",
+    "origin": "project_file",
+    "scope": null
+  }
+]
