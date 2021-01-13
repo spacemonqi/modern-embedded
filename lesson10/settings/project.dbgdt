@@ -153,7 +153,7 @@
             <IarPane-34105>
                 <expressions>
                     <item>counter</item>
-                    <item />
+                    <item></item>
                 </expressions>
                 <col-names>
                     <item>Expression</item>
