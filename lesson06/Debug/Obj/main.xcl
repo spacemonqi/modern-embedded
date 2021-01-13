@@ -1,15 +1,15 @@
-"C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson5\main.c"
+"C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson06\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson5\Debug\Obj\main.pbi.dep
+C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson06\Debug\Obj\main.pbi.dep
 -o
 main.pbi
 -I
-C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson5
+C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson06
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc
 -I
