@@ -1,20 +1,20 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.50.9.278/W32 for ARM                  13/Jan/2021  08:00:30
+# IAR ELF Linker V8.50.9.278/W32 for ARM                  13/Jan/2021  09:14:17
 # Copyright 2007-2020 IAR Systems AB.
 #
 #    Output file  =
-#        C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\Exe\project.out
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\Exe\project.out
 #    Map file     =
-#        C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\List\project.map
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\List\project.map
 #    Command line =
-#        -f C:\Users\dvone\AppData\Local\Temp\EW6BE3.tmp
-#        (C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\Obj\main.o
+#        -f C:\Users\dvone\AppData\Local\Temp\EWF772.tmp
+#        (C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\Obj\main.o
 #        --no_out_extension -o
-#        C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\Exe\project.out
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\Exe\project.out
 #        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
 #        --map
-#        C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\List\project.map
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\List\project.map
 #        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
 #        8.4\arm\config\linker\TexasInstruments\LM4F120H5QR.icf" --semihosting
 #        --entry __iar_program_start --vfe --text_out locale)
@@ -98,7 +98,7 @@ command line/config:
     ----------------------------------
     Total:
 
-C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\Obj: [1]
+C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\Obj: [1]
     main.o                 18
     ----------------------------------
     Total:                 18
@@ -157,7 +157,7 @@ exit                         0x99   0x4  Code  Gb  exit.o [2]
 main                         0x87  0x12  Code  Gb  main.o [1]
 
 
-[1] = C:\Users\dvone\Desktop\Divigraph\embedded_programming\lesson1\Debug\Obj
+[1] = C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson2\Debug\Obj
 [2] = dl7M_tln.a
 [3] = m7M_tls.a
 [4] = rt7M_tl.a

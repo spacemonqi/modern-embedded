@@ -7,7 +7,7 @@
     "location": {
       "column": "5",
       "line": "2",
-      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\embedded_programming\\lesson1\\main.c"
+      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\Embedded_Programming\\lesson2\\main.c"
     },
     "name": "main",
     "origin": "project_file",
@@ -19,9 +19,9 @@
     "defdec": "Def",
     "display": "counter",
     "location": {
-      "column": "18",
+      "column": "9",
       "line": "3",
-      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\embedded_programming\\lesson1\\main.c"
+      "path": "C:\\Users\\dvone\\Desktop\\Divigraph\\Embedded_Programming\\lesson2\\main.c"
     },
     "name": "counter",
     "origin": "project_file",
