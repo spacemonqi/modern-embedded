@@ -34,7 +34,7 @@ int main() {
     u32e = (uint32_t)u16c + u16d;
     
     u16c = 100u;
-    s32 = 10 - (int16_t)u16c;
+    s32 = 10 - u16c;
   
     SYSCTL_RCGCGPIO_R |= (1U << 5);                                // enable clock for GPIOF
     SYSCTL_GPIOHBCTL_R |= (1U << 5);                               // enable AHB for GPIOF
