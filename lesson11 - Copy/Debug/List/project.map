@@ -1,0 +1,209 @@
+###############################################################################
+#
+# IAR ELF Linker V8.50.9.278/W32 for ARM                  14/Jan/2021  10:46:41
+# Copyright 2007-2020 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\Exe\project.out
+#    Map file     =
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\List\project.map
+#    Command line =
+#        -f C:\Users\dvone\AppData\Local\Temp\EW2188.tmp
+#        (C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\Obj\delay.o
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\Obj\main.o
+#        --no_out_extension -o
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\Exe\project.out
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\List\project.map
+#        --config
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\project.icf
+#        --semihosting --entry __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x3'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block HEAP with size = 0, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'7fff] {
+          rw, block CSTACK, block HEAP };
+
+  Section          Kind         Address   Size  Object
+  -------          ----         -------   ----  ------
+"A0":                                     0x40
+  .intvec          ro code          0x0   0x40  vector_table_M.o [4]
+                                 - 0x40   0x40
+
+"P1":                                    0x1f4
+  .text            ro code         0x40   0xe4  main.o [1]
+  .text            ro code        0x124   0x14  delay.o [1]
+  .text            ro code        0x138   0x3a  zero_init3.o [4]
+  .text            ro code        0x172    0x2  vector_table_M.o [4]
+  .text            ro code        0x174   0x28  data_init.o [4]
+  .text            ro code        0x19c   0x22  fpinit_M.o [3]
+  .iar.init_table  const          0x1c0   0x10  - Linker created -
+  .text            ro code        0x1d0   0x1e  cmain.o [4]
+  .text            ro code        0x1ee    0x4  low_level_init.o [2]
+  .text            ro code        0x1f2    0x4  exit.o [2]
+  .text            ro code        0x1f8    0xa  cexit.o [4]
+  .text            ro code        0x204   0x14  exit.o [5]
+  .text            ro code        0x218   0x1c  cstartup_M.o [4]
+  .rodata          const          0x234    0x0  zero_init3.o [4]
+                                - 0x234  0x1f4
+
+"P2", part 1 of 2:                        0x14
+  .bss             zero     0x2000'0000    0x4  main.o [1]
+  .bss             zero     0x2000'0004    0x4  main.o [1]
+  .bss             zero     0x2000'0008    0x4  main.o [1]
+  .bss             zero     0x2000'000c    0x2  main.o [1]
+  .bss             zero     0x2000'000e    0x2  main.o [1]
+  .bss             zero     0x2000'0010    0x1  main.o [1]
+  .bss             zero     0x2000'0011    0x1  main.o [1]
+                          - 0x2000'0012   0x12
+
+"P2", part 2 of 2:                       0x400
+  CSTACK                    0x2000'0018  0x400  <Block>
+    CSTACK         uninit   0x2000'0018  0x400  <Block tail>
+                          - 0x2000'0418  0x400
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x234     0x3'ffff  0x3'fdcc
+  0x2000'0014  0x2000'0017       0x4
+  0x2000'0418  0x2000'7fff    0x7be8
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x12:
+          0x2000'0000  0x12
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+command line/config:
+    -------------------------------------------
+    Total:
+
+C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\Obj: [1]
+    delay.o                20
+    main.o                228                18
+    -------------------------------------------
+    Total:                248                18
+
+dl7M_tln.a: [2]
+    exit.o                  4
+    low_level_init.o        4
+    -------------------------------------------
+    Total:                  8
+
+m7M_tls.a: [3]
+    fpinit_M.o             34
+    -------------------------------------------
+    Total:                 34
+
+rt7M_tl.a: [4]
+    cexit.o                10
+    cmain.o                30
+    cstartup_M.o           28
+    data_init.o            40
+    vector_table_M.o       66
+    zero_init3.o           58
+    -------------------------------------------
+    Total:                232
+
+shb_l.a: [5]
+    exit.o                 20
+    -------------------------------------------
+    Total:                 20
+
+    Gaps                    4        2
+    Linker created                  16    1'024
+-----------------------------------------------
+    Grand Total:          546       18    1'042
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address  Size  Type      Object
+-----                       -------  ----  ----      ------
+.iar.init_table$$Base         0x1c0         --   Gb  - Linker created -
+.iar.init_table$$Limit        0x1d0         --   Gb  - Linker created -
+?main                         0x1d1        Code  Gb  cmain.o [4]
+CSTACK$$Base            0x2000'0018         --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0418         --   Gb  - Linker created -
+Region$$Table$$Base           0x1c0         --   Gb  - Linker created -
+Region$$Table$$Limit          0x1d0         --   Gb  - Linker created -
+__cmain                       0x1d1        Code  Gb  cmain.o [4]
+__exit                        0x205  0x14  Code  Gb  exit.o [5]
+__iar_data_init3              0x175  0x28  Code  Gb  data_init.o [4]
+__iar_init_vfp                0x19d        Code  Gb  fpinit_M.o [3]
+__iar_program_start           0x219        Code  Gb  cstartup_M.o [4]
+__iar_zero_init3              0x139  0x3a  Code  Gb  zero_init3.o [4]
+__low_level_init              0x1ef   0x4  Code  Gb  low_level_init.o [2]
+__vector_table                  0x0        Data  Gb  vector_table_M.o [4]
+_call_main                    0x1dd        Code  Gb  cmain.o [4]
+_exit                         0x1f9        Code  Gb  cexit.o [4]
+_main                         0x1e7        Code  Gb  cmain.o [4]
+delay                         0x125  0x14  Code  Gb  delay.o [1]
+exit                          0x1f3   0x4  Code  Gb  exit.o [2]
+main                           0x41  0xe4  Code  Gb  main.o [1]
+s32                     0x2000'0008   0x4  Data  Gb  main.o [1]
+u16c                    0x2000'000c   0x2  Data  Gb  main.o [1]
+u16d                    0x2000'000e   0x2  Data  Gb  main.o [1]
+u32e                    0x2000'0000   0x4  Data  Gb  main.o [1]
+u32f                    0x2000'0004   0x4  Data  Gb  main.o [1]
+u8a                     0x2000'0010   0x1  Data  Gb  main.o [1]
+u8b                     0x2000'0011   0x1  Data  Gb  main.o [1]
+
+
+[1] = C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson11\Debug\Obj
+[2] = dl7M_tln.a
+[3] = m7M_tls.a
+[4] = rt7M_tl.a
+[5] = shb_l.a
+
+    546 bytes of readonly  code memory
+     18 bytes of readonly  data memory
+  1'042 bytes of readwrite data memory
+
+Errors: none
+Warnings: none
