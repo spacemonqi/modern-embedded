@@ -1,0 +1,4113 @@
+[
+  {
+    "ID": "c:core_cm4.h@1218@macro@__CORE_CM4_H_GENERIC",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CORE_CM4_H_GENERIC",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__CORE_CM4_H_GENERIC",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@2161@macro@__CM4_CMSIS_VERSION_MAIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CM4_CMSIS_VERSION_MAIN",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__CM4_CMSIS_VERSION_MAIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@2285@macro@__CM4_CMSIS_VERSION_SUB",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CM4_CMSIS_VERSION_SUB",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__CM4_CMSIS_VERSION_SUB",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@2408@macro@__CM4_CMSIS_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CM4_CMSIS_VERSION",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__CM4_CMSIS_VERSION",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@2600@macro@__CORTEX_M",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CORTEX_M",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__CORTEX_M",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@4295@macro@__FPU_USED",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__FPU_USED",
+    "location": {
+      "column": "13",
+      "line": "121",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__FPU_USED",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@5614@macro@__CORE_CM4_H_DEPENDANT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CORE_CM4_H_DEPENDANT",
+    "location": {
+      "column": "9",
+      "line": "174",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__CORE_CM4_H_DEPENDANT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@7136@macro@__I",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__I",
+    "location": {
+      "column": "13",
+      "line": "224",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__I",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@7224@macro@__O",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__O",
+    "location": {
+      "column": "13",
+      "line": "226",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__O",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@7306@macro@__IO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__IO",
+    "location": {
+      "column": "13",
+      "line": "227",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__IO",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@7452@macro@__IM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__IM",
+    "location": {
+      "column": "13",
+      "line": "230",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__IM",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@7549@macro@__OM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__OM",
+    "location": {
+      "column": "13",
+      "line": "231",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__OM",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@7647@macro@__IOM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__IOM",
+    "location": {
+      "column": "13",
+      "line": "232",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "__IOM",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@UA@APSR_Type",
+    "What": "Union",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "264",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553",
+        "What": "Struct",
+        "defdec": "Def",
+        "display": "",
+        "location": {
+          "column": "3",
+          "line": "266",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "members": [
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@_reserved0",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "_reserved0",
+            "location": {
+              "column": "14",
+              "line": "268",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "_reserved0",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@GE",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "GE",
+            "location": {
+              "column": "14",
+              "line": "269",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "GE",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@_reserved1",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "_reserved1",
+            "location": {
+              "column": "14",
+              "line": "270",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "_reserved1",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@Q",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "Q",
+            "location": {
+              "column": "14",
+              "line": "271",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "Q",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@V",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "V",
+            "location": {
+              "column": "14",
+              "line": "272",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "V",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@C",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "C",
+            "location": {
+              "column": "14",
+              "line": "273",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "C",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@Z",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "Z",
+            "location": {
+              "column": "14",
+              "line": "274",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "Z",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          },
+          {
+            "ID": "c:@UA@APSR_Type@S@core_cm4.h@8553@FI@N",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "N",
+            "location": {
+              "column": "14",
+              "line": "275",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "N",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_264_9::_anonymous_core_cm4_h_266_3"
+          }
+        ],
+        "name": "",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_264_9"
+      },
+      {
+        "ID": "c:@UA@APSR_Type@FI@b",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "b",
+        "location": {
+          "column": "5",
+          "line": "276",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "b",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_264_9"
+      },
+      {
+        "ID": "c:@UA@APSR_Type@FI@w",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "w",
+        "location": {
+          "column": "12",
+          "line": "277",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "w",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_264_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@APSR_Type",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "union APSR_Type",
+    "location": {
+      "column": "3",
+      "line": "278",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_Type",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@9455@macro@APSR_N_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_N_Pos",
+    "location": {
+      "column": "9",
+      "line": "281",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_N_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@9570@macro@APSR_N_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_N_Msk",
+    "location": {
+      "column": "9",
+      "line": "282",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_N_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@9682@macro@APSR_Z_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_Z_Pos",
+    "location": {
+      "column": "9",
+      "line": "284",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_Z_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@9797@macro@APSR_Z_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_Z_Msk",
+    "location": {
+      "column": "9",
+      "line": "285",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_Z_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@9909@macro@APSR_C_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_C_Pos",
+    "location": {
+      "column": "9",
+      "line": "287",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_C_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10024@macro@APSR_C_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_C_Msk",
+    "location": {
+      "column": "9",
+      "line": "288",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_C_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10136@macro@APSR_V_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_V_Pos",
+    "location": {
+      "column": "9",
+      "line": "290",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_V_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10251@macro@APSR_V_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_V_Msk",
+    "location": {
+      "column": "9",
+      "line": "291",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_V_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10363@macro@APSR_Q_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_Q_Pos",
+    "location": {
+      "column": "9",
+      "line": "293",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_Q_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10478@macro@APSR_Q_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_Q_Msk",
+    "location": {
+      "column": "9",
+      "line": "294",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_Q_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10590@macro@APSR_GE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_GE_Pos",
+    "location": {
+      "column": "9",
+      "line": "296",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_GE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@10706@macro@APSR_GE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "APSR_GE_Msk",
+    "location": {
+      "column": "9",
+      "line": "297",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "APSR_GE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@UA@IPSR_Type",
+    "What": "Union",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "303",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@UA@IPSR_Type@S@core_cm4.h@10915",
+        "What": "Struct",
+        "defdec": "Def",
+        "display": "",
+        "location": {
+          "column": "3",
+          "line": "305",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "members": [
+          {
+            "ID": "c:@UA@IPSR_Type@S@core_cm4.h@10915@FI@ISR",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "ISR",
+            "location": {
+              "column": "14",
+              "line": "307",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "ISR",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_303_9::_anonymous_core_cm4_h_305_3"
+          },
+          {
+            "ID": "c:@UA@IPSR_Type@S@core_cm4.h@10915@FI@_reserved0",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "_reserved0",
+            "location": {
+              "column": "14",
+              "line": "308",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "_reserved0",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_303_9::_anonymous_core_cm4_h_305_3"
+          }
+        ],
+        "name": "",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_303_9"
+      },
+      {
+        "ID": "c:@UA@IPSR_Type@FI@b",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "b",
+        "location": {
+          "column": "5",
+          "line": "309",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "b",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_303_9"
+      },
+      {
+        "ID": "c:@UA@IPSR_Type@FI@w",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "w",
+        "location": {
+          "column": "12",
+          "line": "310",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "w",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_303_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@IPSR_Type",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "union IPSR_Type",
+    "location": {
+      "column": "3",
+      "line": "311",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "IPSR_Type",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@11290@macro@IPSR_ISR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "IPSR_ISR_Pos",
+    "location": {
+      "column": "9",
+      "line": "314",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "IPSR_ISR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@11407@macro@IPSR_ISR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "IPSR_ISR_Msk",
+    "location": {
+      "column": "9",
+      "line": "315",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "IPSR_ISR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@UA@xPSR_Type",
+    "What": "Union",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "321",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624",
+        "What": "Struct",
+        "defdec": "Def",
+        "display": "",
+        "location": {
+          "column": "3",
+          "line": "323",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "members": [
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@ISR",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "ISR",
+            "location": {
+              "column": "14",
+              "line": "325",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "ISR",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@_reserved0",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "_reserved0",
+            "location": {
+              "column": "14",
+              "line": "326",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "_reserved0",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@ICI_IT_1",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "ICI_IT_1",
+            "location": {
+              "column": "14",
+              "line": "327",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "ICI_IT_1",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@GE",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "GE",
+            "location": {
+              "column": "14",
+              "line": "328",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "GE",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@_reserved1",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "_reserved1",
+            "location": {
+              "column": "14",
+              "line": "329",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "_reserved1",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@T",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "T",
+            "location": {
+              "column": "14",
+              "line": "330",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "T",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@ICI_IT_2",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "ICI_IT_2",
+            "location": {
+              "column": "14",
+              "line": "331",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "ICI_IT_2",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@Q",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "Q",
+            "location": {
+              "column": "14",
+              "line": "332",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "Q",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@V",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "V",
+            "location": {
+              "column": "14",
+              "line": "333",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "V",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@C",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "C",
+            "location": {
+              "column": "14",
+              "line": "334",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "C",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@Z",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "Z",
+            "location": {
+              "column": "14",
+              "line": "335",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "Z",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          },
+          {
+            "ID": "c:@UA@xPSR_Type@S@core_cm4.h@11624@FI@N",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "N",
+            "location": {
+              "column": "14",
+              "line": "336",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "N",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_321_9::_anonymous_core_cm4_h_323_3"
+          }
+        ],
+        "name": "",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_321_9"
+      },
+      {
+        "ID": "c:@UA@xPSR_Type@FI@b",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "b",
+        "location": {
+          "column": "5",
+          "line": "337",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "b",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_321_9"
+      },
+      {
+        "ID": "c:@UA@xPSR_Type@FI@w",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "w",
+        "location": {
+          "column": "12",
+          "line": "338",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "w",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_321_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@xPSR_Type",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "union xPSR_Type",
+    "location": {
+      "column": "3",
+      "line": "339",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_Type",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@12829@macro@xPSR_N_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_N_Pos",
+    "location": {
+      "column": "9",
+      "line": "342",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_N_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@12944@macro@xPSR_N_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_N_Msk",
+    "location": {
+      "column": "9",
+      "line": "343",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_N_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13056@macro@xPSR_Z_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_Z_Pos",
+    "location": {
+      "column": "9",
+      "line": "345",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_Z_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13171@macro@xPSR_Z_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_Z_Msk",
+    "location": {
+      "column": "9",
+      "line": "346",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_Z_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13283@macro@xPSR_C_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_C_Pos",
+    "location": {
+      "column": "9",
+      "line": "348",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_C_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13398@macro@xPSR_C_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_C_Msk",
+    "location": {
+      "column": "9",
+      "line": "349",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_C_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13510@macro@xPSR_V_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_V_Pos",
+    "location": {
+      "column": "9",
+      "line": "351",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_V_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13625@macro@xPSR_V_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_V_Msk",
+    "location": {
+      "column": "9",
+      "line": "352",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_V_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13737@macro@xPSR_Q_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_Q_Pos",
+    "location": {
+      "column": "9",
+      "line": "354",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_Q_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13852@macro@xPSR_Q_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_Q_Msk",
+    "location": {
+      "column": "9",
+      "line": "355",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_Q_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@13964@macro@xPSR_ICI_IT_2_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_ICI_IT_2_Pos",
+    "location": {
+      "column": "9",
+      "line": "357",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_ICI_IT_2_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14091@macro@xPSR_ICI_IT_2_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_ICI_IT_2_Msk",
+    "location": {
+      "column": "9",
+      "line": "358",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_ICI_IT_2_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14215@macro@xPSR_T_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_T_Pos",
+    "location": {
+      "column": "9",
+      "line": "360",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_T_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14330@macro@xPSR_T_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_T_Msk",
+    "location": {
+      "column": "9",
+      "line": "361",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_T_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14442@macro@xPSR_GE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_GE_Pos",
+    "location": {
+      "column": "9",
+      "line": "363",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_GE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14558@macro@xPSR_GE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_GE_Msk",
+    "location": {
+      "column": "9",
+      "line": "364",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_GE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14671@macro@xPSR_ICI_IT_1_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_ICI_IT_1_Pos",
+    "location": {
+      "column": "9",
+      "line": "366",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_ICI_IT_1_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14798@macro@xPSR_ICI_IT_1_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_ICI_IT_1_Msk",
+    "location": {
+      "column": "9",
+      "line": "367",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_ICI_IT_1_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@14922@macro@xPSR_ISR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_ISR_Pos",
+    "location": {
+      "column": "9",
+      "line": "369",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_ISR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@15039@macro@xPSR_ISR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "xPSR_ISR_Msk",
+    "location": {
+      "column": "9",
+      "line": "370",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "xPSR_ISR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@UA@CONTROL_Type",
+    "What": "Union",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "376",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@UA@CONTROL_Type@S@core_cm4.h@15236",
+        "What": "Struct",
+        "defdec": "Def",
+        "display": "",
+        "location": {
+          "column": "3",
+          "line": "378",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "members": [
+          {
+            "ID": "c:@UA@CONTROL_Type@S@core_cm4.h@15236@FI@nPRIV",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "nPRIV",
+            "location": {
+              "column": "14",
+              "line": "380",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "nPRIV",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_376_9::_anonymous_core_cm4_h_378_3"
+          },
+          {
+            "ID": "c:@UA@CONTROL_Type@S@core_cm4.h@15236@FI@SPSEL",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "SPSEL",
+            "location": {
+              "column": "14",
+              "line": "381",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "SPSEL",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_376_9::_anonymous_core_cm4_h_378_3"
+          },
+          {
+            "ID": "c:@UA@CONTROL_Type@S@core_cm4.h@15236@FI@FPCA",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "FPCA",
+            "location": {
+              "column": "14",
+              "line": "382",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "FPCA",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_376_9::_anonymous_core_cm4_h_378_3"
+          },
+          {
+            "ID": "c:@UA@CONTROL_Type@S@core_cm4.h@15236@FI@_reserved0",
+            "What": "FieldDecl",
+            "defdec": "Def",
+            "display": "_reserved0",
+            "location": {
+              "column": "14",
+              "line": "383",
+              "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+            },
+            "name": "_reserved0",
+            "origin": "system_include",
+            "scope": "_anonymous_core_cm4_h_376_9::_anonymous_core_cm4_h_378_3"
+          }
+        ],
+        "name": "",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_376_9"
+      },
+      {
+        "ID": "c:@UA@CONTROL_Type@FI@b",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "b",
+        "location": {
+          "column": "5",
+          "line": "384",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "b",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_376_9"
+      },
+      {
+        "ID": "c:@UA@CONTROL_Type@FI@w",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "w",
+        "location": {
+          "column": "12",
+          "line": "385",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "w",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_376_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@CONTROL_Type",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "union CONTROL_Type",
+    "location": {
+      "column": "3",
+      "line": "386",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_Type",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@15801@macro@CONTROL_FPCA_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CONTROL_FPCA_Pos",
+    "location": {
+      "column": "9",
+      "line": "389",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_FPCA_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@15922@macro@CONTROL_FPCA_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CONTROL_FPCA_Msk",
+    "location": {
+      "column": "9",
+      "line": "390",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_FPCA_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@16040@macro@CONTROL_SPSEL_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CONTROL_SPSEL_Pos",
+    "location": {
+      "column": "9",
+      "line": "392",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_SPSEL_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@16162@macro@CONTROL_SPSEL_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CONTROL_SPSEL_Msk",
+    "location": {
+      "column": "9",
+      "line": "393",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_SPSEL_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@16281@macro@CONTROL_nPRIV_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CONTROL_nPRIV_Pos",
+    "location": {
+      "column": "9",
+      "line": "395",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_nPRIV_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@16403@macro@CONTROL_nPRIV_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CONTROL_nPRIV_Msk",
+    "location": {
+      "column": "9",
+      "line": "396",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "CONTROL_nPRIV_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@NVIC_Type",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "411",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@NVIC_Type@FI@ISER",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ISER",
+        "location": {
+          "column": "18",
+          "line": "413",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ISER",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@RESERVED0",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED0",
+        "location": {
+          "column": "18",
+          "line": "414",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED0",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@ICER",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ICER",
+        "location": {
+          "column": "18",
+          "line": "415",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ICER",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@RESERVED1",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED1",
+        "location": {
+          "column": "18",
+          "line": "416",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED1",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@ISPR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ISPR",
+        "location": {
+          "column": "18",
+          "line": "417",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ISPR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@RESERVED2",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED2",
+        "location": {
+          "column": "18",
+          "line": "418",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED2",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@ICPR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ICPR",
+        "location": {
+          "column": "18",
+          "line": "419",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ICPR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@RESERVED3",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED3",
+        "location": {
+          "column": "18",
+          "line": "420",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED3",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@IABR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "IABR",
+        "location": {
+          "column": "18",
+          "line": "421",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "IABR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@RESERVED4",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED4",
+        "location": {
+          "column": "18",
+          "line": "422",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED4",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@IP",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "IP",
+        "location": {
+          "column": "18",
+          "line": "423",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "IP",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@RESERVED5",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED5",
+        "location": {
+          "column": "18",
+          "line": "424",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED5",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      },
+      {
+        "ID": "c:@SA@NVIC_Type@FI@STIR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "STIR",
+        "location": {
+          "column": "18",
+          "line": "425",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "STIR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_411_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@NVIC_Type",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct NVIC_Type",
+    "location": {
+      "column": "4",
+      "line": "426",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "NVIC_Type",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@17829@macro@NVIC_STIR_INTID_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_STIR_INTID_Pos",
+    "location": {
+      "column": "9",
+      "line": "429",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "NVIC_STIR_INTID_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@17951@macro@NVIC_STIR_INTID_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_STIR_INTID_Msk",
+    "location": {
+      "column": "9",
+      "line": "430",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "NVIC_STIR_INTID_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@SCB_Type",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "445",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@SCB_Type@FI@CPUID",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CPUID",
+        "location": {
+          "column": "18",
+          "line": "447",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "CPUID",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@ICSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ICSR",
+        "location": {
+          "column": "18",
+          "line": "448",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ICSR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@VTOR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "VTOR",
+        "location": {
+          "column": "18",
+          "line": "449",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "VTOR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@AIRCR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "AIRCR",
+        "location": {
+          "column": "18",
+          "line": "450",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "AIRCR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@SCR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "SCR",
+        "location": {
+          "column": "18",
+          "line": "451",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "SCR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@CCR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CCR",
+        "location": {
+          "column": "18",
+          "line": "452",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "CCR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@SHP",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "SHP",
+        "location": {
+          "column": "18",
+          "line": "453",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "SHP",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@SHCSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "SHCSR",
+        "location": {
+          "column": "18",
+          "line": "454",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "SHCSR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@CFSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CFSR",
+        "location": {
+          "column": "18",
+          "line": "455",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "CFSR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@HFSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "HFSR",
+        "location": {
+          "column": "18",
+          "line": "456",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "HFSR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@DFSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "DFSR",
+        "location": {
+          "column": "18",
+          "line": "457",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "DFSR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@MMFAR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "MMFAR",
+        "location": {
+          "column": "18",
+          "line": "458",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "MMFAR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@BFAR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "BFAR",
+        "location": {
+          "column": "18",
+          "line": "459",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "BFAR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@AFSR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "AFSR",
+        "location": {
+          "column": "18",
+          "line": "460",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "AFSR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@PFR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "PFR",
+        "location": {
+          "column": "18",
+          "line": "461",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "PFR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@DFR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "DFR",
+        "location": {
+          "column": "18",
+          "line": "462",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "DFR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@ADR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ADR",
+        "location": {
+          "column": "18",
+          "line": "463",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ADR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@MMFR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "MMFR",
+        "location": {
+          "column": "18",
+          "line": "464",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "MMFR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@ISAR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "ISAR",
+        "location": {
+          "column": "18",
+          "line": "465",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "ISAR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@RESERVED0",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED0",
+        "location": {
+          "column": "18",
+          "line": "466",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "RESERVED0",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      },
+      {
+        "ID": "c:@SA@SCB_Type@FI@CPACR",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "CPACR",
+        "location": {
+          "column": "18",
+          "line": "467",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+        },
+        "name": "CPACR",
+        "origin": "system_include",
+        "scope": "_anonymous_core_cm4_h_445_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@SCB_Type",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct SCB_Type",
+    "location": {
+      "column": "3",
+      "line": "468",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_Type",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@20490@macro@SCB_CPUID_IMPLEMENTER_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_IMPLEMENTER_Pos",
+    "location": {
+      "column": "9",
+      "line": "471",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_IMPLEMENTER_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@20620@macro@SCB_CPUID_IMPLEMENTER_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_IMPLEMENTER_Msk",
+    "location": {
+      "column": "9",
+      "line": "472",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_IMPLEMENTER_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@20747@macro@SCB_CPUID_VARIANT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_VARIANT_Pos",
+    "location": {
+      "column": "9",
+      "line": "474",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_VARIANT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@20873@macro@SCB_CPUID_VARIANT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_VARIANT_Msk",
+    "location": {
+      "column": "9",
+      "line": "475",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_VARIANT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@20996@macro@SCB_CPUID_ARCHITECTURE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_ARCHITECTURE_Pos",
+    "location": {
+      "column": "9",
+      "line": "477",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_ARCHITECTURE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21127@macro@SCB_CPUID_ARCHITECTURE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_ARCHITECTURE_Msk",
+    "location": {
+      "column": "9",
+      "line": "478",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_ARCHITECTURE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21255@macro@SCB_CPUID_PARTNO_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_PARTNO_Pos",
+    "location": {
+      "column": "9",
+      "line": "480",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_PARTNO_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21380@macro@SCB_CPUID_PARTNO_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_PARTNO_Msk",
+    "location": {
+      "column": "9",
+      "line": "481",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_PARTNO_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21502@macro@SCB_CPUID_REVISION_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_REVISION_Pos",
+    "location": {
+      "column": "9",
+      "line": "483",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_REVISION_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21629@macro@SCB_CPUID_REVISION_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CPUID_REVISION_Msk",
+    "location": {
+      "column": "9",
+      "line": "484",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CPUID_REVISION_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21808@macro@SCB_ICSR_NMIPENDSET_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_NMIPENDSET_Pos",
+    "location": {
+      "column": "9",
+      "line": "487",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_NMIPENDSET_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@21936@macro@SCB_ICSR_NMIPENDSET_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_NMIPENDSET_Msk",
+    "location": {
+      "column": "9",
+      "line": "488",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_NMIPENDSET_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22061@macro@SCB_ICSR_PENDSVSET_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSVSET_Pos",
+    "location": {
+      "column": "9",
+      "line": "490",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSVSET_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22188@macro@SCB_ICSR_PENDSVSET_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSVSET_Msk",
+    "location": {
+      "column": "9",
+      "line": "491",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSVSET_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22312@macro@SCB_ICSR_PENDSVCLR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSVCLR_Pos",
+    "location": {
+      "column": "9",
+      "line": "493",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSVCLR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22439@macro@SCB_ICSR_PENDSVCLR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSVCLR_Msk",
+    "location": {
+      "column": "9",
+      "line": "494",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSVCLR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22563@macro@SCB_ICSR_PENDSTSET_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSTSET_Pos",
+    "location": {
+      "column": "9",
+      "line": "496",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSTSET_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22690@macro@SCB_ICSR_PENDSTSET_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSTSET_Msk",
+    "location": {
+      "column": "9",
+      "line": "497",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSTSET_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22814@macro@SCB_ICSR_PENDSTCLR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSTCLR_Pos",
+    "location": {
+      "column": "9",
+      "line": "499",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSTCLR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@22941@macro@SCB_ICSR_PENDSTCLR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_PENDSTCLR_Msk",
+    "location": {
+      "column": "9",
+      "line": "500",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_PENDSTCLR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23065@macro@SCB_ICSR_ISRPREEMPT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_ISRPREEMPT_Pos",
+    "location": {
+      "column": "9",
+      "line": "502",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_ISRPREEMPT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23193@macro@SCB_ICSR_ISRPREEMPT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_ISRPREEMPT_Msk",
+    "location": {
+      "column": "9",
+      "line": "503",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_ISRPREEMPT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23318@macro@SCB_ICSR_ISRPENDING_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_ISRPENDING_Pos",
+    "location": {
+      "column": "9",
+      "line": "505",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_ISRPENDING_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23446@macro@SCB_ICSR_ISRPENDING_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_ISRPENDING_Msk",
+    "location": {
+      "column": "9",
+      "line": "506",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_ISRPENDING_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23571@macro@SCB_ICSR_VECTPENDING_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_VECTPENDING_Pos",
+    "location": {
+      "column": "9",
+      "line": "508",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_VECTPENDING_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23700@macro@SCB_ICSR_VECTPENDING_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_VECTPENDING_Msk",
+    "location": {
+      "column": "9",
+      "line": "509",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_VECTPENDING_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23826@macro@SCB_ICSR_RETTOBASE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_RETTOBASE_Pos",
+    "location": {
+      "column": "9",
+      "line": "511",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_RETTOBASE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@23953@macro@SCB_ICSR_RETTOBASE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_RETTOBASE_Msk",
+    "location": {
+      "column": "9",
+      "line": "512",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_RETTOBASE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24077@macro@SCB_ICSR_VECTACTIVE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_VECTACTIVE_Pos",
+    "location": {
+      "column": "9",
+      "line": "514",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_VECTACTIVE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24205@macro@SCB_ICSR_VECTACTIVE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_ICSR_VECTACTIVE_Msk",
+    "location": {
+      "column": "9",
+      "line": "515",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_ICSR_VECTACTIVE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24381@macro@SCB_VTOR_TBLOFF_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_VTOR_TBLOFF_Pos",
+    "location": {
+      "column": "9",
+      "line": "518",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_VTOR_TBLOFF_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24505@macro@SCB_VTOR_TBLOFF_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_VTOR_TBLOFF_Msk",
+    "location": {
+      "column": "9",
+      "line": "519",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_VTOR_TBLOFF_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24697@macro@SCB_AIRCR_VECTKEY_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTKEY_Pos",
+    "location": {
+      "column": "9",
+      "line": "522",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTKEY_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24823@macro@SCB_AIRCR_VECTKEY_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTKEY_Msk",
+    "location": {
+      "column": "9",
+      "line": "523",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTKEY_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@24946@macro@SCB_AIRCR_VECTKEYSTAT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTKEYSTAT_Pos",
+    "location": {
+      "column": "9",
+      "line": "525",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTKEYSTAT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25076@macro@SCB_AIRCR_VECTKEYSTAT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTKEYSTAT_Msk",
+    "location": {
+      "column": "9",
+      "line": "526",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTKEYSTAT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25203@macro@SCB_AIRCR_ENDIANESS_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_ENDIANESS_Pos",
+    "location": {
+      "column": "9",
+      "line": "528",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_ENDIANESS_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25331@macro@SCB_AIRCR_ENDIANESS_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_ENDIANESS_Msk",
+    "location": {
+      "column": "9",
+      "line": "529",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_ENDIANESS_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25456@macro@SCB_AIRCR_PRIGROUP_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_PRIGROUP_Pos",
+    "location": {
+      "column": "9",
+      "line": "531",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_PRIGROUP_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25583@macro@SCB_AIRCR_PRIGROUP_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_PRIGROUP_Msk",
+    "location": {
+      "column": "9",
+      "line": "532",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_PRIGROUP_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25707@macro@SCB_AIRCR_SYSRESETREQ_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_SYSRESETREQ_Pos",
+    "location": {
+      "column": "9",
+      "line": "534",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_SYSRESETREQ_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25837@macro@SCB_AIRCR_SYSRESETREQ_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_SYSRESETREQ_Msk",
+    "location": {
+      "column": "9",
+      "line": "535",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_SYSRESETREQ_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@25964@macro@SCB_AIRCR_VECTCLRACTIVE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTCLRACTIVE_Pos",
+    "location": {
+      "column": "9",
+      "line": "537",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTCLRACTIVE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26096@macro@SCB_AIRCR_VECTCLRACTIVE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTCLRACTIVE_Msk",
+    "location": {
+      "column": "9",
+      "line": "538",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTCLRACTIVE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26225@macro@SCB_AIRCR_VECTRESET_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTRESET_Pos",
+    "location": {
+      "column": "9",
+      "line": "540",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTRESET_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26353@macro@SCB_AIRCR_VECTRESET_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_AIRCR_VECTRESET_Msk",
+    "location": {
+      "column": "9",
+      "line": "541",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_AIRCR_VECTRESET_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26524@macro@SCB_SCR_SEVONPEND_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SCR_SEVONPEND_Pos",
+    "location": {
+      "column": "9",
+      "line": "544",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SCR_SEVONPEND_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26650@macro@SCB_SCR_SEVONPEND_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SCR_SEVONPEND_Msk",
+    "location": {
+      "column": "9",
+      "line": "545",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SCR_SEVONPEND_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26773@macro@SCB_SCR_SLEEPDEEP_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SCR_SLEEPDEEP_Pos",
+    "location": {
+      "column": "9",
+      "line": "547",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SCR_SLEEPDEEP_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@26899@macro@SCB_SCR_SLEEPDEEP_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SCR_SLEEPDEEP_Msk",
+    "location": {
+      "column": "9",
+      "line": "548",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SCR_SLEEPDEEP_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27022@macro@SCB_SCR_SLEEPONEXIT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SCR_SLEEPONEXIT_Pos",
+    "location": {
+      "column": "9",
+      "line": "550",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SCR_SLEEPONEXIT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27150@macro@SCB_SCR_SLEEPONEXIT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SCR_SLEEPONEXIT_Msk",
+    "location": {
+      "column": "9",
+      "line": "551",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SCR_SLEEPONEXIT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27328@macro@SCB_CCR_STKALIGN_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_STKALIGN_Pos",
+    "location": {
+      "column": "9",
+      "line": "554",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_STKALIGN_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27453@macro@SCB_CCR_STKALIGN_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_STKALIGN_Msk",
+    "location": {
+      "column": "9",
+      "line": "555",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_STKALIGN_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27575@macro@SCB_CCR_BFHFNMIGN_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_BFHFNMIGN_Pos",
+    "location": {
+      "column": "9",
+      "line": "557",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_BFHFNMIGN_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27701@macro@SCB_CCR_BFHFNMIGN_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_BFHFNMIGN_Msk",
+    "location": {
+      "column": "9",
+      "line": "558",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_BFHFNMIGN_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27824@macro@SCB_CCR_DIV_0_TRP_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_DIV_0_TRP_Pos",
+    "location": {
+      "column": "9",
+      "line": "560",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_DIV_0_TRP_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@27950@macro@SCB_CCR_DIV_0_TRP_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_DIV_0_TRP_Msk",
+    "location": {
+      "column": "9",
+      "line": "561",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_DIV_0_TRP_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28073@macro@SCB_CCR_UNALIGN_TRP_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_UNALIGN_TRP_Pos",
+    "location": {
+      "column": "9",
+      "line": "563",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_UNALIGN_TRP_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28201@macro@SCB_CCR_UNALIGN_TRP_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_UNALIGN_TRP_Msk",
+    "location": {
+      "column": "9",
+      "line": "564",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_UNALIGN_TRP_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28326@macro@SCB_CCR_USERSETMPEND_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_USERSETMPEND_Pos",
+    "location": {
+      "column": "9",
+      "line": "566",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_USERSETMPEND_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28455@macro@SCB_CCR_USERSETMPEND_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_USERSETMPEND_Msk",
+    "location": {
+      "column": "9",
+      "line": "567",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_USERSETMPEND_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28581@macro@SCB_CCR_NONBASETHRDENA_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_NONBASETHRDENA_Pos",
+    "location": {
+      "column": "9",
+      "line": "569",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_NONBASETHRDENA_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28712@macro@SCB_CCR_NONBASETHRDENA_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CCR_NONBASETHRDENA_Msk",
+    "location": {
+      "column": "9",
+      "line": "570",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CCR_NONBASETHRDENA_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@28904@macro@SCB_SHCSR_USGFAULTENA_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_USGFAULTENA_Pos",
+    "location": {
+      "column": "9",
+      "line": "573",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_USGFAULTENA_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29034@macro@SCB_SHCSR_USGFAULTENA_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_USGFAULTENA_Msk",
+    "location": {
+      "column": "9",
+      "line": "574",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_USGFAULTENA_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29161@macro@SCB_SHCSR_BUSFAULTENA_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_BUSFAULTENA_Pos",
+    "location": {
+      "column": "9",
+      "line": "576",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_BUSFAULTENA_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29291@macro@SCB_SHCSR_BUSFAULTENA_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_BUSFAULTENA_Msk",
+    "location": {
+      "column": "9",
+      "line": "577",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_BUSFAULTENA_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29418@macro@SCB_SHCSR_MEMFAULTENA_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MEMFAULTENA_Pos",
+    "location": {
+      "column": "9",
+      "line": "579",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MEMFAULTENA_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29548@macro@SCB_SHCSR_MEMFAULTENA_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MEMFAULTENA_Msk",
+    "location": {
+      "column": "9",
+      "line": "580",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MEMFAULTENA_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29675@macro@SCB_SHCSR_SVCALLPENDED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_SVCALLPENDED_Pos",
+    "location": {
+      "column": "9",
+      "line": "582",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_SVCALLPENDED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29806@macro@SCB_SHCSR_SVCALLPENDED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_SVCALLPENDED_Msk",
+    "location": {
+      "column": "9",
+      "line": "583",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_SVCALLPENDED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@29934@macro@SCB_SHCSR_BUSFAULTPENDED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_BUSFAULTPENDED_Pos",
+    "location": {
+      "column": "9",
+      "line": "585",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_BUSFAULTPENDED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30067@macro@SCB_SHCSR_BUSFAULTPENDED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_BUSFAULTPENDED_Msk",
+    "location": {
+      "column": "9",
+      "line": "586",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_BUSFAULTPENDED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30197@macro@SCB_SHCSR_MEMFAULTPENDED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MEMFAULTPENDED_Pos",
+    "location": {
+      "column": "9",
+      "line": "588",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MEMFAULTPENDED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30330@macro@SCB_SHCSR_MEMFAULTPENDED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MEMFAULTPENDED_Msk",
+    "location": {
+      "column": "9",
+      "line": "589",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MEMFAULTPENDED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30460@macro@SCB_SHCSR_USGFAULTPENDED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_USGFAULTPENDED_Pos",
+    "location": {
+      "column": "9",
+      "line": "591",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_USGFAULTPENDED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30593@macro@SCB_SHCSR_USGFAULTPENDED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_USGFAULTPENDED_Msk",
+    "location": {
+      "column": "9",
+      "line": "592",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_USGFAULTPENDED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30723@macro@SCB_SHCSR_SYSTICKACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_SYSTICKACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "594",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_SYSTICKACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30852@macro@SCB_SHCSR_SYSTICKACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_SYSTICKACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "595",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_SYSTICKACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@30978@macro@SCB_SHCSR_PENDSVACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_PENDSVACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "597",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_PENDSVACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31106@macro@SCB_SHCSR_PENDSVACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_PENDSVACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "598",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_PENDSVACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31231@macro@SCB_SHCSR_MONITORACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MONITORACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "600",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MONITORACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31360@macro@SCB_SHCSR_MONITORACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MONITORACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "601",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MONITORACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31486@macro@SCB_SHCSR_SVCALLACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_SVCALLACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "603",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_SVCALLACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31614@macro@SCB_SHCSR_SVCALLACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_SVCALLACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "604",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_SVCALLACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31739@macro@SCB_SHCSR_USGFAULTACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_USGFAULTACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "606",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_USGFAULTACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31869@macro@SCB_SHCSR_USGFAULTACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_USGFAULTACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "607",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_USGFAULTACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@31996@macro@SCB_SHCSR_BUSFAULTACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_BUSFAULTACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "609",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_BUSFAULTACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32126@macro@SCB_SHCSR_BUSFAULTACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_BUSFAULTACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "610",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_BUSFAULTACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32253@macro@SCB_SHCSR_MEMFAULTACT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MEMFAULTACT_Pos",
+    "location": {
+      "column": "9",
+      "line": "612",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MEMFAULTACT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32383@macro@SCB_SHCSR_MEMFAULTACT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_SHCSR_MEMFAULTACT_Msk",
+    "location": {
+      "column": "9",
+      "line": "613",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_SHCSR_MEMFAULTACT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32567@macro@SCB_CFSR_USGFAULTSR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_USGFAULTSR_Pos",
+    "location": {
+      "column": "9",
+      "line": "616",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_USGFAULTSR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32712@macro@SCB_CFSR_USGFAULTSR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_USGFAULTSR_Msk",
+    "location": {
+      "column": "9",
+      "line": "617",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_USGFAULTSR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32854@macro@SCB_CFSR_BUSFAULTSR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_BUSFAULTSR_Pos",
+    "location": {
+      "column": "9",
+      "line": "619",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_BUSFAULTSR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@32997@macro@SCB_CFSR_BUSFAULTSR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_BUSFAULTSR_Msk",
+    "location": {
+      "column": "9",
+      "line": "620",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_BUSFAULTSR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@33137@macro@SCB_CFSR_MEMFAULTSR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MEMFAULTSR_Pos",
+    "location": {
+      "column": "9",
+      "line": "622",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MEMFAULTSR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@33290@macro@SCB_CFSR_MEMFAULTSR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MEMFAULTSR_Msk",
+    "location": {
+      "column": "9",
+      "line": "623",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MEMFAULTSR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@33527@macro@SCB_CFSR_MMARVALID_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MMARVALID_Pos",
+    "location": {
+      "column": "9",
+      "line": "626",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MMARVALID_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@33662@macro@SCB_CFSR_MMARVALID_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MMARVALID_Msk",
+    "location": {
+      "column": "9",
+      "line": "627",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MMARVALID_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@33794@macro@SCB_CFSR_MLSPERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MLSPERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "629",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MLSPERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@33927@macro@SCB_CFSR_MLSPERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MLSPERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "630",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MLSPERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34057@macro@SCB_CFSR_MSTKERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MSTKERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "632",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MSTKERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34190@macro@SCB_CFSR_MSTKERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MSTKERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "633",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MSTKERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34320@macro@SCB_CFSR_MUNSTKERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MUNSTKERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "635",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MUNSTKERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34455@macro@SCB_CFSR_MUNSTKERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_MUNSTKERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "636",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_MUNSTKERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34587@macro@SCB_CFSR_DACCVIOL_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_DACCVIOL_Pos",
+    "location": {
+      "column": "9",
+      "line": "638",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_DACCVIOL_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34721@macro@SCB_CFSR_DACCVIOL_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_DACCVIOL_Msk",
+    "location": {
+      "column": "9",
+      "line": "639",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_DACCVIOL_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34852@macro@SCB_CFSR_IACCVIOL_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_IACCVIOL_Pos",
+    "location": {
+      "column": "9",
+      "line": "641",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_IACCVIOL_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@34986@macro@SCB_CFSR_IACCVIOL_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_IACCVIOL_Msk",
+    "location": {
+      "column": "9",
+      "line": "642",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_IACCVIOL_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35197@macro@SCB_CFSR_BFARVALID_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_BFARVALID_Pos",
+    "location": {
+      "column": "9",
+      "line": "645",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_BFARVALID_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35331@macro@SCB_CFSR_BFARVALID_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_BFARVALID_Msk",
+    "location": {
+      "column": "9",
+      "line": "646",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_BFARVALID_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35462@macro@SCB_CFSR_LSPERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_LSPERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "648",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_LSPERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35593@macro@SCB_CFSR_LSPERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_LSPERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "649",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_LSPERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35721@macro@SCB_CFSR_STKERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_STKERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "651",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_STKERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35852@macro@SCB_CFSR_STKERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_STKERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "652",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_STKERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@35980@macro@SCB_CFSR_UNSTKERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_UNSTKERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "654",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_UNSTKERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36113@macro@SCB_CFSR_UNSTKERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_UNSTKERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "655",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_UNSTKERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36243@macro@SCB_CFSR_IMPRECISERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_IMPRECISERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "657",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_IMPRECISERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36379@macro@SCB_CFSR_IMPRECISERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_IMPRECISERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "658",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_IMPRECISERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36512@macro@SCB_CFSR_PRECISERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_PRECISERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "660",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_PRECISERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36646@macro@SCB_CFSR_PRECISERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_PRECISERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "661",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_PRECISERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36777@macro@SCB_CFSR_IBUSERR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_IBUSERR_Pos",
+    "location": {
+      "column": "9",
+      "line": "663",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_IBUSERR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@36909@macro@SCB_CFSR_IBUSERR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_IBUSERR_Msk",
+    "location": {
+      "column": "9",
+      "line": "664",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_IBUSERR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37120@macro@SCB_CFSR_DIVBYZERO_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_DIVBYZERO_Pos",
+    "location": {
+      "column": "9",
+      "line": "667",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_DIVBYZERO_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37254@macro@SCB_CFSR_DIVBYZERO_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_DIVBYZERO_Msk",
+    "location": {
+      "column": "9",
+      "line": "668",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_DIVBYZERO_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37385@macro@SCB_CFSR_UNALIGNED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_UNALIGNED_Pos",
+    "location": {
+      "column": "9",
+      "line": "670",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_UNALIGNED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37519@macro@SCB_CFSR_UNALIGNED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_UNALIGNED_Msk",
+    "location": {
+      "column": "9",
+      "line": "671",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_UNALIGNED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37650@macro@SCB_CFSR_NOCP_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_NOCP_Pos",
+    "location": {
+      "column": "9",
+      "line": "673",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_NOCP_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37779@macro@SCB_CFSR_NOCP_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_NOCP_Msk",
+    "location": {
+      "column": "9",
+      "line": "674",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_NOCP_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@37905@macro@SCB_CFSR_INVPC_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_INVPC_Pos",
+    "location": {
+      "column": "9",
+      "line": "676",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_INVPC_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38035@macro@SCB_CFSR_INVPC_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_INVPC_Msk",
+    "location": {
+      "column": "9",
+      "line": "677",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_INVPC_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38162@macro@SCB_CFSR_INVSTATE_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_INVSTATE_Pos",
+    "location": {
+      "column": "9",
+      "line": "679",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_INVSTATE_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38295@macro@SCB_CFSR_INVSTATE_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_INVSTATE_Msk",
+    "location": {
+      "column": "9",
+      "line": "680",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_INVSTATE_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38425@macro@SCB_CFSR_UNDEFINSTR_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_UNDEFINSTR_Pos",
+    "location": {
+      "column": "9",
+      "line": "682",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_UNDEFINSTR_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38560@macro@SCB_CFSR_UNDEFINSTR_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_CFSR_UNDEFINSTR_Msk",
+    "location": {
+      "column": "9",
+      "line": "683",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_CFSR_UNDEFINSTR_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38741@macro@SCB_HFSR_DEBUGEVT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_HFSR_DEBUGEVT_Pos",
+    "location": {
+      "column": "9",
+      "line": "686",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_HFSR_DEBUGEVT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38867@macro@SCB_HFSR_DEBUGEVT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_HFSR_DEBUGEVT_Msk",
+    "location": {
+      "column": "9",
+      "line": "687",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_HFSR_DEBUGEVT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@38990@macro@SCB_HFSR_FORCED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_HFSR_FORCED_Pos",
+    "location": {
+      "column": "9",
+      "line": "689",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_HFSR_FORCED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39114@macro@SCB_HFSR_FORCED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_HFSR_FORCED_Msk",
+    "location": {
+      "column": "9",
+      "line": "690",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_HFSR_FORCED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39235@macro@SCB_HFSR_VECTTBL_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_HFSR_VECTTBL_Pos",
+    "location": {
+      "column": "9",
+      "line": "692",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_HFSR_VECTTBL_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39360@macro@SCB_HFSR_VECTTBL_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_HFSR_VECTTBL_Msk",
+    "location": {
+      "column": "9",
+      "line": "693",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_HFSR_VECTTBL_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39532@macro@SCB_DFSR_EXTERNAL_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_EXTERNAL_Pos",
+    "location": {
+      "column": "9",
+      "line": "696",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_EXTERNAL_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39658@macro@SCB_DFSR_EXTERNAL_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_EXTERNAL_Msk",
+    "location": {
+      "column": "9",
+      "line": "697",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_EXTERNAL_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39781@macro@SCB_DFSR_VCATCH_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_VCATCH_Pos",
+    "location": {
+      "column": "9",
+      "line": "699",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_VCATCH_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@39905@macro@SCB_DFSR_VCATCH_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_VCATCH_Msk",
+    "location": {
+      "column": "9",
+      "line": "700",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_VCATCH_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@40026@macro@SCB_DFSR_DWTTRAP_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_DWTTRAP_Pos",
+    "location": {
+      "column": "9",
+      "line": "702",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_DWTTRAP_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@40151@macro@SCB_DFSR_DWTTRAP_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_DWTTRAP_Msk",
+    "location": {
+      "column": "9",
+      "line": "703",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_DWTTRAP_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@40273@macro@SCB_DFSR_BKPT_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_BKPT_Pos",
+    "location": {
+      "column": "9",
+      "line": "705",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_BKPT_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@40395@macro@SCB_DFSR_BKPT_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_BKPT_Msk",
+    "location": {
+      "column": "9",
+      "line": "706",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_BKPT_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@40514@macro@SCB_DFSR_HALTED_Pos",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_HALTED_Pos",
+    "location": {
+      "column": "9",
+      "line": "708",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_HALTED_Pos",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:core_cm4.h@40638@macro@SCB_DFSR_HALTED_Msk",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SCB_DFSR_HALTED_Msk",
+    "location": {
+      "column": "9",
+      "line": "709",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "name": "SCB_DFSR_HALTED_Msk",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@SCnSCB_Type",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "724",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\CMSIS\\Core\\Include\\core_cm4.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@SCnSCB_Type@FI@RESERVED0",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "RESERVED0",
+        "location": {
+          
