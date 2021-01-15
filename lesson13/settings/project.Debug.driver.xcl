@@ -2,17 +2,17 @@
 
 "--cpu=Cortex-M4" 
 
-"--fpu=None" 
+"--fpu=VFPv4_SP" 
 
 "-p" 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\CONFIG\debugger\TexasInstruments\LM4F120H5QR.ddf" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\CONFIG\debugger\TexasInstruments\TM4C123FH6PM.ddf" 
 
 "--drv_verify_download" 
 
 "--semihosting" 
 
-"--device=LM4F120H5QR" 
+"--device=TM4C123FH6PM" 
 
 "--drv_interface_speed=500" 
 

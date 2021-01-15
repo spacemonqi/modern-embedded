@@ -78,7 +78,7 @@
                 </option>
                 <option>
                     <name>OGChipSelectEditMenu</name>
-                    <state>LM4F120H5QR	TexasInstruments LM4F120H5QR</state>
+                    <state>TM4C123FH6PM	TexasInstruments TM4C123FH6PM</state>
                 </option>
                 <option>
                     <name>GenLowLevelInterface</name>
@@ -138,17 +138,17 @@
                 </option>
                 <option>
                     <name>GFPUDeviceSlave</name>
-                    <state>LM4F120H5QR	TexasInstruments LM4F120H5QR</state>
+                    <state>TM4C123FH6PM	TexasInstruments TM4C123FH6PM</state>
                 </option>
                 <option>
                     <name>FPU2</name>
                     <version>0</version>
-                    <state>0</state>
+                    <state>4</state>
                 </option>
                 <option>
                     <name>NrRegs</name>
                     <version>0</version>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>NEON</name>
