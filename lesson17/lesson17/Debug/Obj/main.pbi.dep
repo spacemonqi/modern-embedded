@@ -1,0 +1,18 @@
+main.pbi: \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iar_intrinsics_common.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\intrinsics.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\bsp.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\..\CMSIS\Include\core_cmSimd.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\..\CMSIS\Include\core_cmFunc.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\cmsis_iar.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\..\CMSIS\Include\core_cmInstr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\..\CMSIS\Include\core_cm4.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\TM4C123GH6PM.h \
+  C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\main.c

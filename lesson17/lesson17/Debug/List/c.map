@@ -1,0 +1,184 @@
+###############################################################################
+#
+# IAR ELF Linker V8.50.9.278/W32 for ARM                  15/Jan/2021  13:59:30
+# Copyright 2007-2020 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Exe\c.out
+#    Map file     =
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\List\c.map
+#    Command line =
+#        -f C:\Users\dvone\AppData\Local\Temp\EWAC4C.tmp
+#        (C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Obj\bsp.o
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Obj\main.o
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Obj\startup_tm4c.o
+#        --no_out_extension -o
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Exe\c.out
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\List\c.map
+#        --config
+#        C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\project.icf
+#        --entry __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x3'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block HEAP with size = 0, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'7fff] {
+          rw, block CSTACK, block HEAP };
+
+No sections matched the following patterns:
+
+  rw  in "P2"
+
+
+  Section   Kind         Address   Size  Object
+  -------   ----         -------   ----  ------
+"A0":                             0x26c
+  .intvec   const            0x0  0x26c  startup_tm4c.o [1]
+                         - 0x26c  0x26c
+
+"P1":                             0x1b8
+  .text     ro code        0x26c   0x74  main.o [1]
+  .text     ro code        0x2e0   0x38  bsp.o [1]
+  .text     ro code        0x318   0x54  startup_tm4c.o [1]
+  .text     ro code        0x36c   0x22  fpinit_M.o [3]
+  .text     ro code        0x390   0x1e  cmain.o [4]
+  .text     ro code        0x3ae    0x4  low_level_init.o [2]
+  .text     ro code        0x3b2    0x4  exit.o [2]
+  .text     ro code        0x3b8    0xa  cexit.o [4]
+  .text     ro code        0x3c4    0xc  XXexit.o [4]
+  .text     ro code        0x3d0   0x1c  cstartup_M.o [4]
+  .rodata   const          0x3ec    0xc  startup_tm4c.o [1]
+  .rodata   const          0x3f8    0xc  startup_tm4c.o [1]
+  .rodata   const          0x404    0xc  startup_tm4c.o [1]
+  .rodata   const          0x410    0xc  startup_tm4c.o [1]
+  .rodata   const          0x41c    0x8  startup_tm4c.o [1]
+                         - 0x424  0x1b8
+
+"P2":                             0x400
+  CSTACK             0x2000'0000  0x400  <Block>
+    CSTACK  uninit   0x2000'0000  0x400  <Block tail>
+                   - 0x2000'0400  0x400
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x424     0x3'ffff  0x3'fbdc
+  0x2000'0400  0x2000'7fff    0x7c00
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+command line/config:
+    -------------------------------------------
+    Total:
+
+C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Obj: [1]
+    bsp.o                  56
+    main.o                116
+    startup_tm4c.o         84      676
+    -------------------------------------------
+    Total:                256      676
+
+dl7M_tln.a: [2]
+    exit.o                  4
+    low_level_init.o        4
+    -------------------------------------------
+    Total:                  8
+
+m7M_tls.a: [3]
+    fpinit_M.o             34
+    -------------------------------------------
+    Total:                 34
+
+rt7M_tl.a: [4]
+    XXexit.o               12
+    cexit.o                10
+    cmain.o                30
+    cstartup_M.o           28
+    -------------------------------------------
+    Total:                 80
+
+    Gaps                    6
+    Linker created                        1'024
+-----------------------------------------------
+    Grand Total:          384      676    1'024
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                     Address   Size  Type      Object
+-----                     -------   ----  ----      ------
+?main                       0x391         Code  Gb  cmain.o [4]
+BusFault_Handler            0x337    0xa  Code  Gb  startup_tm4c.o [1]
+CSTACK$$Base          0x2000'0000          --   Gb  - Linker created -
+CSTACK$$Limit         0x2000'0400         Data  Gb  - Linker created -
+HardFault_Handler           0x319    0xa  Code  Gb  startup_tm4c.o [1]
+MemManage_Handler           0x32d    0xa  Code  Gb  startup_tm4c.o [1]
+NMI_Handler                 0x323    0xa  Code  Gb  startup_tm4c.o [1]
+NVIC_SystemReset            0x2e1   0x1a  Code  Lc  bsp.o [1]
+Region$$Table$$Base           0x0          --   Gb  - Linker created -
+Region$$Table$$Limit          0x0          --   Gb  - Linker created -
+SysTick_Handler             0x301    0xc  Code  Gb  bsp.o [1]
+Unused_Handler              0x34b    0xa  Code  Gb  startup_tm4c.o [1]
+UsageFault_Handler          0x341    0xa  Code  Gb  startup_tm4c.o [1]
+__cmain                     0x391         Code  Gb  cmain.o [4]
+__exit                      0x3c5         Code  Gb  XXexit.o [4]
+__iar_init_vfp              0x36d         Code  Gb  fpinit_M.o [3]
+__iar_program_start         0x3d1         Code  Gb  cstartup_M.o [4]
+__low_level_init            0x3af    0x4  Code  Gb  low_level_init.o [2]
+__vector_table                0x0  0x26c  Data  Gb  startup_tm4c.o [1]
+_call_main                  0x39d         Code  Gb  cmain.o [4]
+_exit                       0x3b9         Code  Gb  cexit.o [4]
+_main                       0x3a7         Code  Gb  cmain.o [4]
+assert_failed               0x2fb    0x6  Code  Gb  bsp.o [1]
+exit                        0x3b3    0x4  Code  Gb  exit.o [2]
+main                        0x26d   0x74  Code  Gb  main.o [1]
+
+
+[1] = C:\Users\dvone\Desktop\Divigraph\Embedded_Programming\lesson17\lesson17\Debug\Obj
+[2] = dl7M_tln.a
+[3] = m7M_tls.a
+[4] = rt7M_tl.a
+
+    384 bytes of readonly  code memory
+    676 bytes of readonly  data memory
+  1'024 bytes of readwrite data memory
+
+Errors: none
+Warnings: none
